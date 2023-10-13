@@ -8,9 +8,9 @@ import uuid
 #Credentials provided from https://developer.doordash.com/portal/integration/drive/credentials
 #TODO: Replace placeholders with credential values
 access_key = {
-  "developer_id": "UPDATE_WITH_DEVELOPER_ID", #TODO: Update value with Developer ID
-  "key_id": "UPDATE_WITH_KEY_ID", #TODO: Update value with Key ID
-  "signing_secret": "UPDATE_WITH_SIGNING_SECRET" #TODO: Update value with Signing Secret 
+  "developer_id": "4d7517f3-137c-48a6-bab3-24a03ef8b7a0", #TODO: Update value with Developer ID
+  "key_id": "24d220e3-f520-4de1-9e27-ded293d1db8b", #TODO: Update value with Key ID
+  "signing_secret": "m8vuDg1zjZ9dtHFEYaEdIDiZDAFGJ1l72pJjcRzncyk" #TODO: Update value with Signing Secret 
 }
 
 #Create token, pass values needed for JWT Header, Payload, and signature
